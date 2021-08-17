@@ -2,3 +2,22 @@ baseURL = "https://n0ti0n.github.io/"
 languageCode = "en-us"
 title = "n0ti0n team"
 theme = "ananke"
+enableRobotsTXT = true
+
+[taxonomies]
+category = 'categories'
+tag = 'tags'
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  twitter = "https://twitter.com/n0ti0n"
+  github = "https://github.com/n0ti0n"
+  background_color_class = "bg-black"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  recent_posts_number = 2
+  show_reading_time = true
