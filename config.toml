@@ -1,0 +1,4 @@
+baseURL = "https://n0ti0n.github.io/"
+languageCode = "en-us"
+title = "n0ti0n team"
+theme = "ananke"
