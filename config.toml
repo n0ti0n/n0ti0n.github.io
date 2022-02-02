@@ -15,7 +15,7 @@ tag = 'tags'
 
 [params]
   favicon = ""
-  twitter = "https://twitter.com/n0ti0n"
+  twitter = ""
   github = "https://github.com/n0ti0n"
   background_color_class = "bg-black"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
